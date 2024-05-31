@@ -38,7 +38,7 @@ This is a simple image encryption tool built using Tkinter for the GUI and Pillo
 
 ## Screenshots
 
-![Image Encryption Tool Screenshot](screenshots/screenshot.png)
+![Image Encryption Tool Screenshot](screenshots/Encrypted_Image.png)
 
 ## Contributing
 
